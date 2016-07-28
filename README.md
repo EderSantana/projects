@@ -10,8 +10,7 @@ CNN+RNN model for deciding where the car should go during Summer at comma.ai
 
 ## [EEG analysis for Brain Machine Interface](https://github.com/EderSantana/DeepEEG)  
 <img src="./images/eeg.png" width=300>  
-I wrote the CSP pipeline for EEG analysis in Theano and fine-tuned everything end-to-end,
-if I could've won BCI competition 2 T_T
+I wrote the CSP pipeline for EEG analysis in Theano and fine-tuned everything end-to-end. I could've won BCI competition 2 T_T
 
 ## [Information Theoretic Learning Autoencoders](http://arxiv.org/abs/1603.06653)  
 <img src="./images/swiss_roll.png" width=200>  
