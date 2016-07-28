@@ -1,6 +1,6 @@
 # projects
 
-[self coloring books](https://commaai.blogspot.com/2016/07/self-coloring-books.html)  
+## [self coloring books](https://commaai.blogspot.com/2016/07/self-coloring-books.html)  
 <img src="./images/selfcoloring.png" width=300 align="middle">  
 A segmentation network for self driving car data pipeline
 
