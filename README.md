@@ -23,3 +23,7 @@ Keras' community is awesome! I contributed a little bit of Tensorflow and Theano
 ## [Hubot Recognizer](https://github.com/EderSantana/hubot-recognizer/blob/master/images/pug_it_is.png?raw=true)  
 <img src="https://github.com/EderSantana/hubot-recognizer/blob/master/images/pug_it_is.png?raw=true" width=600>  
 I put some deep learning on Slack
+
+## [deep learning with python](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-python-video)
+<img src="./images/dlwithpy.png" width=200 align="middle">  
+video course about deep learning. Mostly using Keras and Theano.
