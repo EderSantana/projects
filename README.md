@@ -9,7 +9,7 @@ A segmentation network for self driving car data pipeline
 CNN+RNN model for deciding where the car should go during Summer at comma.ai
 
 [EEG analysis for Brain Machine Interface](https://github.com/EderSantana/DeepEEG)  
-<img src="./images/eeg.png" width=200>  
+<img src="./images/eeg.png" width=300>  
 I wrote the CSP pipeline for EEG analysis in Theano and fine-tuned everything end-to-end,
 if I could've won BCI competition 2 T_T
 
@@ -22,5 +22,5 @@ I want to use information theory to compress and make images look pretty.
 Keras' community is awesome! I contributed a little bit to the source. Specially on [networks]() that learns to pay [attention](https://github.com/EderSantana/seya/tree/master/examples) to interesting stuff.
 
 [Hubot Recognizer](https://github.com/EderSantana/hubot-recognizer/blob/master/images/pug_it_is.png?raw=true)  
-<img src="https://github.com/EderSantana/hubot-recognizer/blob/master/images/pug_it_is.png?raw=true" width=300>  
+<img src="https://github.com/EderSantana/hubot-recognizer/blob/master/images/pug_it_is.png?raw=true" width=500>  
 I put some deep learning on Slack
