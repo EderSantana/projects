@@ -15,7 +15,7 @@ if I could've won BCI competition 2 T_T
 
 [Information Theoretic Learning Autoencoders](http://arxiv.org/abs/1603.06653)  
 <img src="./images/swiss_roll.png" width=200>  
-I want to use information theory to compress and make images look pretty.
+I want to use deep information theoretic learning to compress and make images look pretty.
 
 [Keras contributor](https://github.com/fchollet/keras)  
 <img src="./images/STN.png" width=200> <img src="./images/STN2.png" width=200>  
