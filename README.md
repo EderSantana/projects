@@ -22,5 +22,5 @@ I want to use information theory to compress and make images look pretty.
 Keras' community is awesome! I contributed a little bit to the source. Specially on [networks]() that learns to pay [attention](https://github.com/EderSantana/seya/tree/master/examples) to interesting stuff.
 
 [Hubot Recognizer](https://github.com/EderSantana/hubot-recognizer/blob/master/images/pug_it_is.png?raw=true)  
-<img src="https://github.com/EderSantana/hubot-recognizer/blob/master/images/pug_it_is.png?raw=true" width=500>  
+<img src="https://github.com/EderSantana/hubot-recognizer/blob/master/images/pug_it_is.png?raw=true" width=600>  
 I put some deep learning on Slack
