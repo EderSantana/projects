@@ -27,3 +27,6 @@ I put some deep learning on Slack
 ## [deep learning with python](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-python-video)
 <img src="./images/dlwithpy.png" width=200 align="middle">  
 video course about deep learning. Mostly using Keras and Theano.
+
+## [publications](http://cnel.ufl.edu/people/people.php?name=eder)
+papers, in the end of the day I write machine learning papers for a living
