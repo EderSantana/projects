@@ -18,7 +18,7 @@ I want to use deep information theoretic learning to compress and make images lo
 
 ## [Keras contributor](https://github.com/fchollet/keras)  
 <img src="./images/STN.png" width=200> <img src="./images/STN2.png" width=200>  
-Keras' community is awesome! I contributed a little bit of Tensorflow and Theano to the source. Specially on [networks](https://github.com/EderSantana/seya/blob/master/examples/NTM.ipynb) that learns to pay [attention](https://github.com/EderSantana/seya/blob/master/examples/Spatial%20Transformer%20Networks.ipynb) to interesting stuff.
+Keras' community is awesome! I contributed a little bit of Tensorflow and Theano to the source. Specially on [networks](https://github.com/EderSantana/seya/blob/master/examples/NTM.ipynb) that learn to pay [attention](https://github.com/EderSantana/seya/blob/master/examples/Spatial%20Transformer%20Networks.ipynb) to interesting stuff.
 
 ## [Hubot Recognizer](https://github.com/EderSantana/hubot-recognizer/blob/master/images/pug_it_is.png?raw=true)  
 <img src="https://github.com/EderSantana/hubot-recognizer/blob/master/images/pug_it_is.png?raw=true" width=600>  
