@@ -1,5 +1,9 @@
 # projects
 
+## [learning a driving simulator](http://research.comma.ai)
+<img src="https://github.com/commaai/research/blob/master/images/drive_simulator.gif?raw=true>">
+I trained generative adversarial and recurrent neural networks to simulate highway videos.
+
 ## [self coloring books](https://commaai.blogspot.com/2016/07/self-coloring-books.html)  
 <img src="./images/selfcoloring.png" width=300 align="middle">  
 A segmentation network for self driving car data pipeline
@@ -15,6 +19,10 @@ I wrote the CSP pipeline for EEG analysis in Theano and fine-tuned everything en
 ## [Information Theoretic Learning Autoencoders](http://arxiv.org/abs/1603.06653)  
 <img src="./images/swiss_roll.png" width=200>  
 I want to use deep information theoretic learning to compress and make images look pretty.
+
+## [RGB-D object recognition](http://cnel.ufl.edu/files/1429900461.pdf)
+<img src="http://rgbd-dataset.cs.washington.edu/imgs/rgbd.png" width=200> <img src="http://rgbd-dataset.cs.washington.edu/imgs/rgbd.png" width=200>
+I trained convnets to recognize objects in 3D when interning with Paracosm.io
 
 ## [Keras contributor](https://github.com/fchollet/keras)  
 <img src="./images/STN.png" width=200> <img src="./images/STN2.png" width=200>  
