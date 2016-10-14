@@ -4,9 +4,6 @@
 <img src="https://github.com/Tetrachrome/subpixel/blob/master/images/input_detail.png?raw=true" width=400> <img src="https://github.com/Tetrachrome/subpixel/blob/master/images/superres_epoch6_detail.png?raw=true" width=400>  
 Enhance! A neural network for image superresolution. This project hit the front page of Hacker News and Trending on Github.
 
-## [Tetrachrome](https://github.com/Tetrachrome)  
-We're working on bridging the gap between geometric computer vision and deep learning.
-
 ## [learning a driving simulator](http://research.comma.ai)
 <img src="https://github.com/commaai/research/blob/master/images/drive_simulator.gif?raw=true">  
 I trained generative adversarial and recurrent neural networks to simulate highway videos.
