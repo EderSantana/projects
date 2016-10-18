@@ -39,7 +39,7 @@ Keras' community is awesome! I contribute with both Tensorflow and Theano code t
 include [Neural Turing Machines](https://github.com/EderSantana/seya/blob/master/examples/NTM.ipynb) and
 [Spatial Transformer Networks](https://github.com/EderSantana/seya/blob/master/examples/Spatial%20Transformer%20Networks.ipynb).
 
-## [Hubot Recognizer](https://github.com/EderSantana/hubot-recognizer/blob/master/images/pug_it_is.png?raw=true)  
+## [Hubot Recognizer](https://github.com/EderSantana/hubot-recognizer)  
 <img src="https://github.com/EderSantana/hubot-recognizer/blob/master/images/pug_it_is.png?raw=true" width=600>  
 I put some deep learning on Slack
 
