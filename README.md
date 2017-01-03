@@ -2,7 +2,7 @@
 
 ## generative models and unsupervised learning for videos  
 <img src="./images/moving_mnist.gif" width=300 align="middle">  
-I wrote [Recurrent Winner-Take-All](https://arxiv.org/abs/1611.00050) and [Perception Updating Networks](https://openreview.net/pdf?id=SkXIrV9le).
+I wrote [Recurrent Winner-Take-All](https://arxiv.org/abs/1611.00050) and [Perception Updating Networks](https://openreview.net/pdf?id=SkXIrV9le). Those methods show how to learn features by exploiting temporal context and to predict future frames in a video (think video compressor or robot planning).
 
 ## [subpixel](https://github.com/Tetrachrome/subpixel)  
 <img src="https://github.com/Tetrachrome/subpixel/blob/master/images/input_detail.png?raw=true" width=400> <img src="https://github.com/Tetrachrome/subpixel/blob/master/images/superres_epoch6_detail.png?raw=true" width=400>  
