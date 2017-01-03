@@ -1,7 +1,7 @@
 # projects
 
-## [generative models and unsupervised learning for videos]
-<img src="./images/moving_mnist.gif" width=300 align="middle">
+## generative models and unsupervised learning for videos  
+<img src="./images/moving_mnist.gif" width=300 align="middle">  
 I recently wrote [Recurrent Winner-Take-All](https://arxiv.org/abs/1611.00050) and [Perception Updating Networks](https://openreview.net/pdf?id=SkXIrV9le).
 
 ## [subpixel](https://github.com/Tetrachrome/subpixel)  
