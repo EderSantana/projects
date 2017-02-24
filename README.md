@@ -9,7 +9,7 @@ I wrote [Recurrent Winner-Take-All](https://arxiv.org/abs/1611.00050) and [Perce
 Enhance! A neural network for image superresolution. This project hit the front page of Hacker News and Trending on Github.
 
 ## [pymerkletools](https://github.com/Tierion/pymerkletools)
-<img src="https://avatars2.githubusercontent.com/u/13408951?v=3&s=200" width=150>  
+<img src="https://avatars2.githubusercontent.com/u/13408951?v=3&s=200" width=50>  
 I love bitcoin and blockchain! I wrote [Tierion](https://tierion.com)'s [pymerkletools](https://github.com/Tierion/pymerkletools) for creating Merkle trees, generating merkle proofs, and verification of merkle proofs.
 
 ## [learning a driving simulator](http://research.comma.ai)
