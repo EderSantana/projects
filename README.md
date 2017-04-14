@@ -2,7 +2,7 @@
 
 ## generative models and unsupervised learning for videos  
 <img src="./images/moving_mnist.gif" width=300 align="middle">  
-I wrote [Recurrent Winner-Take-All](https://arxiv.org/abs/1611.00050) and [Perception Updating Networks](https://openreview.net/pdf?id=H1JBMVpdx). Those methods show how to learn features by exploiting temporal context and to predict future frames in a video (think video compressor or robot planning).
+I wrote <a href=https://arxiv.org/abs/1611.00050>Recurrent Winner-Take-All</a> and <a href=https://openreview.net/pdf?id=H1JBMVpdx>Perception Updating Networks</a>. Those methods show how to learn features by exploiting temporal context and to predict future frames in a video (think video compressor or robot planning).
 
 ## [subpixel](https://github.com/Tetrachrome/subpixel)  
 <img src="https://github.com/Tetrachrome/subpixel/blob/master/images/input_detail.png?raw=true" width=400> <img src="https://github.com/Tetrachrome/subpixel/blob/master/images/superres_epoch6_detail.png?raw=true" width=400>  
@@ -10,7 +10,7 @@ Enhance! A neural network for image superresolution. This project hit the front 
 
 ## [pymerkletools](https://github.com/Tierion/pymerkletools)
 <img src="https://avatars2.githubusercontent.com/u/13408951?v=3&s=200" width=50>  
-I love bitcoin and blockchain! I wrote [Tierion](https://tierion.com)'s [pymerkletools](https://github.com/Tierion/pymerkletools) for creating Merkle trees, generating merkle proofs, and verification of merkle proofs.
+I love bitcoin and blockchain! I wrote <a href=https://tierion.com>Tierion</a>'s <a href=https://github.com/Tierion/pymerkletools>pymerkletools</a> for creating Merkle trees, generating merkle proofs, and verification of merkle proofs.
 
 ## [learning a driving simulator](http://research.comma.ai)
 <img src="https://github.com/commaai/research/blob/master/images/drive_simulator.gif?raw=true">  
