@@ -1,5 +1,9 @@
 # projects
 
+## minimum viable experiment series
+<img src="./images/catch.gif" width=300 align="middle">  
+Like single file experiments to trully grok things? I got you with <a href=http://edersantana.github.io/articles/keras_rl/>Reinforcement Learning</a> and <a href=https://medium.com/@edersantana/mve-series-playing-catch-with-keras-and-an-evolution-strategy-a005b75d0505>Evolution Stratagies</a> tutorials. 
+
 ## generative models and unsupervised learning for videos  
 <img src="./images/moving_mnist.gif" width=300 align="middle">  
 I wrote <a href=https://arxiv.org/abs/1611.00050>Recurrent Winner-Take-All</a> and <a href=https://openreview.net/pdf?id=H1JBMVpdx>Perception Updating Networks</a>. Those methods show how to learn features by exploiting temporal context and to predict future frames in a video (think video compressor or robot planning).
