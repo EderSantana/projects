@@ -59,5 +59,5 @@ I put some deep learning on Slack
 <img src="./images/dlwithpy.png" width=200 align="middle">  
 video course about deep learning. Mostly using Keras and Theano.
 
-## [publications](http://cnel.ufl.edu/people/people.php?name=eder)
+## [publications](https://scholar.google.com.br/citations?user=VSGnfXAAAAAJ&hl=en)
 papers, in the end of the day I write machine learning papers for a living
