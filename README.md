@@ -1,5 +1,9 @@
 # projects
 
+## real job 
+<img src="./images/twitch_homepage.png" width=300 align="middle">  
+For the last 6 years I've working on the recommendations team at Twitch. We've been responsible for personalizing the entire presentation on the homescreen and leftbar. I've had influence in both building and/or finetuning models for personalization, and also help propose and test feasibility of different products in partnership with our product people.
+
 ## minimum viable experiment series
 <img src="./images/catch.gif" width=300 align="middle">  
 Like single file experiments to trully grok things? I got you with <a href=http://edersantana.github.io/articles/keras_rl/>Reinforcement Learning</a> and <a href=https://medium.com/@edersantana/mve-series-playing-catch-with-keras-and-an-evolution-strategy-a005b75d0505>Evolution Stratagies</a> tutorials. 
