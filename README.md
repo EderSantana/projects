@@ -2,7 +2,7 @@
 
 ## real job 
 <img src="./images/twitch_homepage.png" width=300 align="middle">  
-For the last 6 years I've working on the recommendations team at Twitch. We've been responsible for personalizing the entire presentation on the homescreen and leftbar. I've had influence in both building and/or finetuning models for personalization, and also help propose and test feasibility of different products in partnership with our product people.
+For the last 6 years I've been working on the recommendations team at Twitch. We've been responsible for personalizing the entire presentation on the homescreen and leftbar. I've been doing direct work and also the good ol' talking to adults to get things done together. Honestly, my fav part is training and mentoring younger team members... that academic prof in me never really left (for better or for worse xD)...
 
 ## minimum viable experiment series
 <img src="./images/catch.gif" width=300 align="middle">  
